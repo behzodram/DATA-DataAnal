@@ -3,6 +3,7 @@
 ## Tools
 - Python
 - Pandas
+- Seaborn
 - Matplotlib
 
 ## Questions
