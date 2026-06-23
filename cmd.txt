@@ -1,0 +1,2 @@
+ToScript Fayl Konverter CMD:
+    jupytext --to notebook ToScript.py --output analysis.ipynb

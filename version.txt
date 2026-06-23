@@ -1,2 +1,3 @@
+v 1.0.2 => main: Edit README.md vs requirements.txt
 v 1.0.1 => main: Matplot -> Seaborn Well Design with comments.
 v 1.0.0 => main: ipynb with its script file
